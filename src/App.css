@@ -1,0 +1,15 @@
+.block {
+  display: flex;
+  justify-content: space-between;
+}
+.button-1 {
+  width: 20px;
+}
+
+img {
+  height: 28rem;
+  object-fit: cover;
+}
+.card-block {
+  background-color: rgb(218, 218, 218);
+}
